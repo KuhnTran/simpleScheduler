@@ -1,0 +1,18 @@
+cr w 1
+req R1 1
+cr x 1
+to
+req R2 2
+req R3 3
+req R4 4
+req R1 1
+req R2 2
+cr y 2
+req R1 1
+cr z 2
+req R2 2
+cr a 2
+req R3 3
+cr b 2
+req R4 4
+
